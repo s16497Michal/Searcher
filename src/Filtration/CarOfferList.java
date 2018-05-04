@@ -2,7 +2,7 @@ package Filtration;
 
 import java.util.*;
 
-public class CarOfferList {
+public class CarOfferList /*implements CarofferListInterface */ {
 
     private List<CarOffer> caroffers = new ArrayList<>();
 
